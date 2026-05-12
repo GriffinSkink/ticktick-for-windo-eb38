@@ -1,4 +1,4 @@
-# 
+# Enhance TickTick for Windows with smart TickTick for Windows Automation | subtasks + notifications, the #1 automation. Includes subtasks and notifications for a smoother and more
 
 
 
